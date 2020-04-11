@@ -1,0 +1,16 @@
+# Sample Phone Book consist of three columns of the
+# Last Name, First Name, and Phone Number separated by ":"
+James:504-621-8927
+Art:773-573-6914
+Lenna:773-924-8565
+Donette:410-655-8723
+Simona:410-804-4694
+Tollner:216-657-7668
+Leota:216-733-8494
+Sage:310-774-7643
+Minna:310-968-1219
+Cammy:330-537-5358
+Meaghan:330-700-2312
+Yuki:626-572-1096
+Bette:626-696-2777
+Maryann:510-503-7169
